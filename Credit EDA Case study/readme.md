@@ -5,4 +5,3 @@ Credit EDA Case study
 3. As a consumer finance company analyst, you’ll use EDA to identify patterns that help distinguish applicants likely to repay their loans from those who may default. 
 4. The goal is to minimize financial loss by understanding how consumer and loan attributes influence repayment behavior. 
 5. By identifying high-risk applicants, the company can take actions like denying loans or adjusting terms to mitigate potential losses.
-https://drive.google.com/drive/folders/16RQztUqCfJOlbooHqYlJrp6Q7iL65uZB
